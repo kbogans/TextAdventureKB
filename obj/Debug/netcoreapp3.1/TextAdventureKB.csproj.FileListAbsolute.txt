@@ -1,0 +1,13 @@
+C:\Users\kboga\OneDrive\Desktop\repos\TextAdventureKB\bin\Debug\netcoreapp3.1\TextAdventureKB.exe
+C:\Users\kboga\OneDrive\Desktop\repos\TextAdventureKB\bin\Debug\netcoreapp3.1\TextAdventureKB.deps.json
+C:\Users\kboga\OneDrive\Desktop\repos\TextAdventureKB\bin\Debug\netcoreapp3.1\TextAdventureKB.runtimeconfig.json
+C:\Users\kboga\OneDrive\Desktop\repos\TextAdventureKB\bin\Debug\netcoreapp3.1\TextAdventureKB.runtimeconfig.dev.json
+C:\Users\kboga\OneDrive\Desktop\repos\TextAdventureKB\bin\Debug\netcoreapp3.1\TextAdventureKB.dll
+C:\Users\kboga\OneDrive\Desktop\repos\TextAdventureKB\bin\Debug\netcoreapp3.1\TextAdventureKB.pdb
+C:\Users\kboga\OneDrive\Desktop\repos\TextAdventureKB\obj\Debug\netcoreapp3.1\TextAdventureKB.csprojAssemblyReference.cache
+C:\Users\kboga\OneDrive\Desktop\repos\TextAdventureKB\obj\Debug\netcoreapp3.1\TextAdventureKB.AssemblyInfoInputs.cache
+C:\Users\kboga\OneDrive\Desktop\repos\TextAdventureKB\obj\Debug\netcoreapp3.1\TextAdventureKB.AssemblyInfo.cs
+C:\Users\kboga\OneDrive\Desktop\repos\TextAdventureKB\obj\Debug\netcoreapp3.1\TextAdventureKB.csproj.CoreCompileInputs.cache
+C:\Users\kboga\OneDrive\Desktop\repos\TextAdventureKB\obj\Debug\netcoreapp3.1\TextAdventureKB.dll
+C:\Users\kboga\OneDrive\Desktop\repos\TextAdventureKB\obj\Debug\netcoreapp3.1\TextAdventureKB.pdb
+C:\Users\kboga\OneDrive\Desktop\repos\TextAdventureKB\obj\Debug\netcoreapp3.1\TextAdventureKB.genruntimeconfig.cache
